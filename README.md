@@ -54,6 +54,3 @@ dlt_end_to_end/
 
 Project screenshots are available in the `screenshots` folder.
 
-## Author
-
-**Vedesh Kulkarni**
