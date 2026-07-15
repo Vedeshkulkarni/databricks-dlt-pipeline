@@ -19,7 +19,7 @@ Bronze → Silver → Gold
 - Delta Lake
 - Git
 - GitHub
-- auto loader
+- Auto Loader 
 
 ## Project Structure
 
